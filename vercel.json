@@ -1,6 +1,6 @@
 {
   "name": "spacestation-api",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "builds": [
     { "src": "server.js", "use": "@vercel/node" }
   ],
