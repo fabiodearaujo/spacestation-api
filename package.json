@@ -1,6 +1,6 @@
 {
   "name": "spacestation-backend",
-  "version": "1",
+  "version": "1.0.0",
   "description": "Backend server for Space Station project",
   "main": "server.js",
   "scripts": {
